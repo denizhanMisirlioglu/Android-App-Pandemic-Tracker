@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "422311091931",
+    "firebase_url": "https://covid-42d93-default-rtdb.firebaseio.com",
+    "project_id": "covid-42d93",
+    "storage_bucket": "covid-42d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422311091931:android:1c9099db3d20b5be30b6fe",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422311091931-ps5hjkkk9ej60qb9jch22h1o4svp2sdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeNUyPGZ2ZftwJJIeuUrms2L4YU73Bnik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422311091931-ps5hjkkk9ej60qb9jch22h1o4svp2sdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422311091931:android:b5694fb2cd64e22c30b6fe",
+        "android_client_info": {
+          "package_name": "com.example.pandemicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422311091931-ps5hjkkk9ej60qb9jch22h1o4svp2sdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeNUyPGZ2ZftwJJIeuUrms2L4YU73Bnik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422311091931-ps5hjkkk9ej60qb9jch22h1o4svp2sdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422311091931:android:897205c005baa2c230b6fe",
+        "android_client_info": {
+          "package_name": "com.example.seniorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422311091931-ps5hjkkk9ej60qb9jch22h1o4svp2sdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeNUyPGZ2ZftwJJIeuUrms2L4YU73Bnik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422311091931-ps5hjkkk9ej60qb9jch22h1o4svp2sdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422311091931:android:4416c6f92a39479a30b6fe",
+        "android_client_info": {
+          "package_name": "com.malkinfo.animalinformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422311091931-ps5hjkkk9ej60qb9jch22h1o4svp2sdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeNUyPGZ2ZftwJJIeuUrms2L4YU73Bnik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422311091931-ps5hjkkk9ej60qb9jch22h1o4svp2sdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

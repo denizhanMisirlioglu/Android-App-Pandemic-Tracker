@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">seniorProject</string>
+    <string name="gomainactivity">GoMainActivity</string>
+    <string name="_27_04_2022">27.04.2022</string>
+    <string name="swipeleft_tip">swipeLeft tip</string>
+    <string name="sortcountryby">sortCountryBy</string>
+
+    <string-array name="sortingOptions">
+        <item>totalDeaths </item>
+        <item>newDeaths</item>
+        <item>population</item>
+        <item>totalCases</item>
+        <item>newCases</item>
+        <item>totalVaccin</item>
+        <item>totalTest</item>
+        <item>newTest</item>
+        <item>descending totalDeaths </item>
+        <item>descending newDeaths</item>
+        <item>descending population</item>
+        <item>descending totalCases</item>
+        <item>descending newCases</item>
+        <item>descending totalVaccin</item>
+        <item>descending totalTest</item>
+        <item>descending newTest</item>
+    </string-array>
+</resources>
