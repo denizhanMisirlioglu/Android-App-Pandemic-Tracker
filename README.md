@@ -1,8 +1,9 @@
 # Pandemic-Tracker
 
 <p align="center">
-  <img src="docs/output.gif" width="800" alt="Pandemic-Tracker Demo GIF">
+  <img src="docs/output.gif" width="100%" alt="Pandemic-Tracker Demo GIF">
 </p>
+
 
 **Pandemic-Tracker** is my very first Android project (April 2022). It’s an app designed to track and compare intercontinental COVID-19 statistics in real time.
 
