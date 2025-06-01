@@ -1,7 +1,7 @@
 # Pandemic-Tracker
 
 <p align="center">
-  <img src="docs/output.gif" width="100%" alt="Pandemic-Tracker Demo GIF">
+  <img src="docs/highres_output.gif" width="100%" alt="Pandemic-Tracker Demo GIF">
 </p>
 
 
